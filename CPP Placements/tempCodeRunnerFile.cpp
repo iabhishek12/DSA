@@ -1,0 +1,2 @@
+
+    cin>>string1;
